@@ -38,11 +38,6 @@ This is a React application that demonstrates routing using **React Router DOM**
 ### Step 1: Install Node.js
 Download and install Node.js from [https://nodejs.org](https://nodejs.org) (LTS version)
 
-### Step 2: Clone or Download this project
-```bash
-git clone https://github.com/renukanaidu365-boop/Task30-Router.git
-cd Task30-Router
-
 
 ### What I Learned from This Task
 React Router DOM is different from state-based routing
