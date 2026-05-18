@@ -1,9 +1,5 @@
 # Task 30 - React Router DOM
 
-<<<<<<< HEAD
-## Student: Renuka Naidu
-## Date: May 18, 2026
-
 ## What I Built
 
 I made a React app with 4 pages:
@@ -93,5 +89,3 @@ Link components prevent page refresh
 useNavigate hook is used for redirects after form submit
 
 URL changes help users understand where they are in the app
-
->>>>>>> 9c906af3bab1232b35f661259461b55784feb4a9
